@@ -11,7 +11,7 @@ Data analyst with 30 years on the commercial side at Oxford University Press (sa
 | [Sales & Discount Analysis](https://github.com/anna-morris-analytics/powerbi-sales-discount-analysis) | Do discounts make customers buy more? | Power BI, Power Query, DAX |
 | [School Performance Report](https://github.com/anna-morris-analytics/powerbi-school-performance-report) | Which classes and subjects need attention? | Power BI, Power Query, DAX |
 | A/B Test Analysis *(coming soon)* | Does the new version convert better? | Python, statsmodels |
-| Marketing Performance *(coming soon)* | Which ad campaigns deserve more budget? | SQL, Tableau |
+| [Marketing Performance](https://github.com/anna-morris-analytics/sql-tableau-marketing-performance) | Which ad campaigns deserve more budget? | SQL, Tableau |
 | [Multichannel Sales](https://github.com/anna-morris-analytics/sql-looker-studio-multichannel-sales) | How do online and store sales compare? | SQL, Looker Studio |
 
 ## Live dashboards
